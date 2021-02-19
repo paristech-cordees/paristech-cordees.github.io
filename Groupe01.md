@@ -5,7 +5,7 @@ Veuillez sélectionner votre salle.
 - <a id="one" class="button" href='https://fr.lmgtfy.app/?q=green&iie=0' target='_blank'>10h - 10h30</a>
 - <a id="two" class="button" href='https://fr.lmgtfy.app/?q=blue&iie=0' target='_blank'>11h - 11h30</a>
 
-- <a class="button" href='' target='_blank'>Aide</a>
+- <a class="button" href='/' target='_blank'>Aide</a>
 
 <script>
     var d = new Date();

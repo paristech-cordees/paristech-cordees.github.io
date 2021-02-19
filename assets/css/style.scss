@@ -8,6 +8,12 @@
     font-size: 40;
 }
 
+.center-txt
+{
+    text-align: center;
+    color: #2596be;
+}
+
 @import "{{ site.theme }}";
 
 .center-img {
@@ -15,12 +21,6 @@
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-}
-
-.center-txt
-{
-    text-align: center;
-    color: #2596be;
 }
 
 .button:hover {

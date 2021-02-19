@@ -6,4 +6,4 @@ Veuillez cliquer sur celui correspond à l'horaire actuel.
 
 Vous rejoindrez alors une conférence Zoom ou un salon Mozilla Hubs pour prendre part aux événéments proposés.
 
-<a HREF="window.close();">Fermer</a>
+<a HREF="javascript:window.close();">Fermer</a>

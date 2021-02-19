@@ -13,6 +13,9 @@
     text-align: center;
 }
 
+$section-headings-color: #2596be;
+$section-headings-color: #2596be;
+
 @import "{{ site.theme }}";
 
 .center-img {
@@ -29,6 +32,3 @@
 .button {
   border-radius: 5px;  
 }
-
-$section-headings-color: #2596be;
-$section-headings-color: #2596be;

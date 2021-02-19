@@ -1,10 +1,11 @@
 ---
-header-heading-color: black
 ---
 
 #custom-banner
 {
     background-image: url('/banner.png');
+    color: #2596be;
+    font-size: 40;
 }
 
 @import "{{ site.theme }}";

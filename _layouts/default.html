@@ -56,4 +56,15 @@
       </footer>
     </main>
   </body>
+
+  
+<script>
+  var d = new Date();
+var currHour = d.getHours();
+if (currHour >= 9 && currHour <= 12) {
+  document.getElementById("one").style.fontWeight = "bold";
+} else if (currHour > 12 && currHour < 20) {
+  document.getElementById("two").style.fontWeight = "bold";
+}
+</script>
 </html>

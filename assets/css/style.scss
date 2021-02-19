@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 #custom-banner
 {
     background-image: 'banner.png';
 }
+
+@import "{{ site.theme }}";

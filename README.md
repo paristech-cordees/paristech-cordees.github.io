@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Liens de connexion
 
 You can use the [editor on GitHub](https://github.com/paristech-cordees/paristech-cordees.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

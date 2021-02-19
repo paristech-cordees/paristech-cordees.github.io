@@ -3,9 +3,16 @@
 
 #custom-banner
 {
-    background-image: url('/banner.png');
+    background-image: url('/banner.png');    
+    background-position: center;
     color: #2596be;
     font-size: 40;
+}
+
+#custom-footer
+{
+    background-image: url('/ecoles.png'); 
+    background-size: auto; 
 }
 
 @import "{{ site.theme }}";

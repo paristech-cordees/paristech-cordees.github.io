@@ -12,4 +12,4 @@
 - <a id="two" class="button" href='https://hubs.mozilla.com/aKqDXjf/peru-agile-conclave' target='_blank'>10h30 - 11h (espace Mozilla Hubs)</a>
 - <a id="three" class="button" href='https://hubs.mozilla.com/eMvQK7M/exciting-worldly-plane' target='_blank'>11h - 11h30 (espace Mozilla Hubs)</a>
 
-<div class="button2" onclick="openInNewTab('/');" style="  margin: auto;  width: 100%;"><span>AIDE - SOS</span></div>
+<div class="button2" onclick="openInNewTab('/');"><span>AIDE - SOS</span></div>

@@ -34,8 +34,6 @@ $section-headings-color: #2596be;
 }
 
 .button2 {
-    width: 400px;
-    height: 100px;
     background: #f3f0f1;
     position: relative;
     background: #f3f0f1;
@@ -44,6 +42,7 @@ $section-headings-color: #2596be;
     text-align: center;
     cursor: pointer;
     transition: all 0.1s ease-in-out;
+    color: #2596be;
     span {
       line-height: 100px;
       font-family: "Montserrat", sans-serif;

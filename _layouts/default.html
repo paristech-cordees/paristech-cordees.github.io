@@ -70,5 +70,11 @@ if (currHour >= 9 && currHour <= 12) {
 } else if (currHour > 12 && currHour < 23) {
   document.getElementById("two").style.fontWeight = "bold";
 }
+  
+  
+  function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
 </script>
 </html>

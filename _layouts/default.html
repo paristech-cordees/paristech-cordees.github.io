@@ -63,22 +63,24 @@
 
   
 <script>
-  var d = new Date();
-var currHour = d.getHours();
- var currMinute = d.getMinutes();
-if ((currHour >= 10) && ((currHour < 11) || ((currHour == 10) && (currMinute <= 30))))  {
-  document.getElementById("one").style.fontWeight = "bold";
-} else if (currHour == 10) {
-  document.getElementById("two").style.fontWeight = "bold";
-}
-else if (currHour == 11) {
-  document.getElementById("three").style.fontWeight = "bold";
-}
-  
-  
-  function openInNewTab(url) {
+function openInNewTab(url) {
   var win = window.open(url, '_blank');
   win.focus();
 }
+
+var d = new Date();
+var currHour = d.getHours();
+var currMinute = d.getMinutes();
+var els;
+  
+if ((currHour >= 10) && ((currHour < 11) || ((currHour == 10) && (currMinute <= 30))))  {  
+  var els = document.getElementsByClassName("one");  
+} else if (currHour == 10) {
+  var els = document.getElementsByClassName("two");  
+} else if (currHour == 11) {
+  var els = document.getElementsByClassName("three");  
+}
+[].forEach.call(els, function (el) {el.style.fontWeight = "bold";});
+  
 </script>
 </html>

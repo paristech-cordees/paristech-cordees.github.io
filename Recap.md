@@ -8,6 +8,8 @@ Veuillez sélectionner votre salle.
 {% endunless %}
 
 {% unless include.Groupe01 %}
+### Groupe 1
+
 - <a class="button one" href='https://mines-paristech.zoom.us/j/93866446534?pwd=aWR2SUwvZTBVTjdXUVFyaldTcytoZz09' target='_blank'>10h - 10h30 (amphi Zoom d'accueil)</a>
 - <a class="button two" href='https://mines-paristech.zoom.us/j/98756030357?pwd=UGZSeFRCOVlZYlJZNTdLT3Jyakl0QT09' target='_blank'>10h30 - 11h (salle Zoom)</a>
 - <a class="button three" href='https://hubs.mozilla.com/eMvQK7M/exciting-worldly-plane' target='_blank'>11h - 11h30 (espace Mozilla Hubs)</a>

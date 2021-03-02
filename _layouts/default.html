@@ -68,7 +68,7 @@ var currHour = d.getHours();
  var currMinute = d.getMinutes();
 if ((currHour >= 10) && ((currHour < 11) || ((currHour == 10) && (currMinute <= 30))))  {
   document.getElementById("one").style.fontWeight = "bold";
-} else if (currHour < 11) {
+} else if (currHour == 10) {
   document.getElementById("two").style.fontWeight = "bold";
 }
 else if (currHour == 11) {

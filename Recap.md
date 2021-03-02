@@ -40,4 +40,8 @@ Veuillez sélectionner votre salle.
 - <a class="button three" href='https://hubs.mozilla.com/eMvQK7M/exciting-worldly-plane' target='_blank'>11h - 11h30 (espace Mozilla Hubs)</a>
 {% endif %}
 
+{% unless include.Inc %}
+<br/>
+{% endunless %}
+
 <div class="button2" onclick="openInNewTab('/');"><span>AIDE - SOS</span></div>

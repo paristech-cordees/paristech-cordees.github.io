@@ -1,16 +1,12 @@
 ## Liens de connexion
 
+# Salle des profs
+
+- <a class="button" href='https://mines-paristech.zoom.us/j/95593465246?pwd=TFV5cFdxRUlhN1czc281VDlXT2JIZz09' target='_blank'>Salle Zoom des profs</a>
+
 ### Groupe 1
 
-- <a id="one" class="button" href='https://mines-paristech.zoom.us/my/amphi107' target='_blank'>10h - 10h30 (salle Zoom)</a>
-- <a id="two" class="button" href='https://hubs.mozilla.com/aKqDXjf/peru-agile-conclave' target='_blank'>10h30 - 11h (espace Mozilla Hubs)</a>
-- <a id="three" class="button" href='https://hubs.mozilla.com/eMvQK7M/exciting-worldly-plane' target='_blank'>11h - 11h30 (espace Mozilla Hubs)</a>
-
 ### Groupe 2
-
-- <a id="one" class="button" href='https://mines-paristech.zoom.us/my/amphi107' target='_blank'>10h - 10h30 (salle Zoom)</a>
-- <a id="two" class="button" href='https://hubs.mozilla.com/aKqDXjf/peru-agile-conclave' target='_blank'>10h30 - 11h (espace Mozilla Hubs)</a>
-- <a id="three" class="button" href='https://hubs.mozilla.com/eMvQK7M/exciting-worldly-plane' target='_blank'>11h - 11h30 (espace Mozilla Hubs)</a>
 
 <br/>
 <div class="button2" onclick="openInNewTab('/');"><span>AIDE - SOS</span></div>
